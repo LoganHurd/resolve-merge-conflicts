@@ -1,2 +1,4 @@
-text that conflicts
-:P
+
+# References
+
+* octocat 1 😈
